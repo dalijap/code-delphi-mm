@@ -70,7 +70,45 @@
 
 ## Part 2. Object instances
 
+### Chapter 5. To be, or not to be 
+
++ ### 5.1.4 Nil exception
+
+  NilException.dpr
+
++ ### 5.1.5 How to test for nil
+
+  AssignedCheck.dpr
+
+  NilComparison.dpr
+
+  NilComparisonFunc.dpr
+
++ ### 5.3.1 A use case for null object
+
+  NullObjectPattern.dpr
+
++ ### 5.3.2 A case against null object
+
+  TreeNil.dpr
+
+  TreeNullObject.dpr
+
+  TreeNullObjectSingle.dpr
+
++ ### 5.4 Nullable types
+
+  Following nullable implementation is based on Allen Bauer's blog post "A Nullable Post" https://blog.therealoracleatdelphi.com/2008/09/a-post_18.html
+
+  Nullable.pas
+
+  Weather.dpr
+
+
+### Chapter 6, 7, 8
+
 ...
+
 
 ## Part 3. Manual memory management
 
